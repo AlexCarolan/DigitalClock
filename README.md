@@ -1,6 +1,6 @@
 # DigitalClock
 A 24-hour digital clock designed to run on a PIC18 40 pin Microcontroller (running @ 8Mhz), made with C and inline assembly.  
-Allows the user to chnage and set the time using PORTB buttons.  
+Allows the user to change and set the time using PORTB buttons.  
 
 ## User Guide
 
